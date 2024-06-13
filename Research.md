@@ -1,4 +1,6 @@
 # Git-research
+I modified the message twice to practice and it was very smooth no errors .I can say i get it. Thank you 
+
 Possible reasons for the message "error: failed to push some refs to 'https://github.com/Nanadennis/version-control.git"
 Information from Chatgpt
 
@@ -16,4 +18,6 @@ The branch you're trying to push to might be protected. GitHub can restrict dire
 
 5. Permissions Issue
 There might be a permissions issue where you do not have the necessary rights to push to the repository.
+
+
 
