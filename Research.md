@@ -1,5 +1,6 @@
 # Git-research
-Reasons for the message "error: failed to push some refs to 'https://github.com/Nanadennis/version-control.git"
+Possible reasons for the message "error: failed to push some refs to 'https://github.com/Nanadennis/version-control.git"
+Information from Chatgpt
 
 1. Remote Branch is Ahead of Local Branch
 The remote branch has commits that your local branch does not. Git prevents you from pushing to avoid overwriting these commits.
